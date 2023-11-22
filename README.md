@@ -1,6 +1,6 @@
 # Lodash Examples
 
-Lodash 是一個第三方套件，裡面還提供了蠻多有用的 utility function。
+[Lodash](https://lodash.com/) 是一個第三方套件，裡面還提供了蠻多有用的 utility function。
 
 雖然知道這個套件已經有一段時間了，但仔細想想我實際上有在用的好像只有 `cloneDeep`...。正因為如此才覺得有點太可惜了？於是就花了一點時間整理出一些我覺得實用的 method 跟 example。
 
